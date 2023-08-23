@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "lpreducer",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/lopezquekk/LPReducer",
+      "state" : {
+        "branch" : "main",
+        "revision" : "c251462184f03c1f4e9f5525d632630cd1ef8404"
+      }
+    }
+  ],
+  "version" : 2
+}
